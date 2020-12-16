@@ -1,1 +1,1 @@
-web:gunicorn opencv-course-app-demo:app
+web: gunicorn cv_web_app:app
